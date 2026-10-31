@@ -1,0 +1,5 @@
+* { font-family: Georgia, serif; }
+h2 { color: #1d4ed8; }
+.class-demo { color: green; }
+#id-demo { color: crimson; }
+[data-type="attr"] { color: purple; }
